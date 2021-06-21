@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋👋👋👋
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)  [![LICENSE](https://img.shields.io/badge/license-%E5%8F%8D%E5%AF%B9996-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE_CN)  [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Badgs](https://img.shields.io/badge/链接-996.icu-green)](https://996.icu/#/zh_CN)  [![Badge](https://img.shields.io/badge/link-996.icu-pink)](https://996.icu/#/en_US)  [![LICENSE](https://img.shields.io/badge/许可证-反对996-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE_CN)  [![LICENSE](https://img.shields.io/badge/license-Anti996-blue)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jiapai12138&show_icons=true&theme=dracula&title_color=fff" alt="JiaPai12138" /></p>
 
