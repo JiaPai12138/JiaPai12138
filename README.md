@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on: [Crossfirer](https://github.com/JiaPai12138/Crossfirer) and [AI-M-BOT](https://github.com/JiaPai12138/AI-M-BOT)
-- 🌱 I’m currently learning: python, c#
+- 🔭 I was working on: [Crossfirer](https://github.com/JiaPai12138/Crossfirer) and [AI-M-BOT](https://github.com/JiaPai12138/AI-M-BOT), and now: improving deployemnt of object detection apps
+- 🌱 I’m currently learning: python, c#, c++, Rust
 - 🤔 I’m looking for help with: object detection
-- ⚡ Fun fact: waiting for new release of pytorch and cupy so I don't need to uninstall/reinstall cuda 11.3 (super lazy guy I am)
+- ⚡ Fun fact: not fun for now
